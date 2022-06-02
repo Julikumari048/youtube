@@ -1,0 +1,6 @@
+#show_video{
+    display:grid;
+    grid-template-columns: repeat(4, 20%);
+    grid-template-rows: auto;
+    grid-gap: 5%;;
+}
